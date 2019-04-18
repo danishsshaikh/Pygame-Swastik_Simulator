@@ -8,4 +8,5 @@ Open your command prompt and then type
 
 `pip install pygame`
 
+and then run the following code, with the .png images in the same directory.
 
