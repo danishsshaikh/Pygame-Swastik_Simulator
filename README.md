@@ -1,4 +1,4 @@
-# Game using Pygame
+## :sweat_drops: Swastik Simulator
 
 _Project for my 4th Semester Sub -> Computer Graphics_
 
